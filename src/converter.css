@@ -1,0 +1,10 @@
+.select-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
+.container {
+ border: 3px solid gold;
+ border-radius: 14px;
+}
